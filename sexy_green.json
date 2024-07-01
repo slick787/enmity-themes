@@ -1,10 +1,10 @@
 {
   "name": "sexy_green",
   "description": "slick's personal theme",
-  "version": "1.0",
+  "version": "2.0",
   "authors": [
     {
-      "name": "slick787#4121",
+      "name": "slick",
       "id": "706241165090881548"
     }
   ],
@@ -149,7 +149,7 @@
   },
   "background": {
     "blur": 1.0,
-    "url": "https://cdn.discordapp.com/attachments/1003773399107117127/1037940503192272916/ThemeImage.jpg",
+    "url": "https://raw.githubusercontent.com/slick787/sexygreen/main/ThemeImage.jpeg",
     "alpha": 3.0
   }
 }
