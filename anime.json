@@ -14,7 +14,7 @@
       "#000000"
     ],
     "HEADER_SECONDARY": [
-      "#000000",
+      "#1F51FF",
       "#000000"
     ],
     "TEXT_NORMAL": [
@@ -30,7 +30,7 @@
       "#000000"
     ],
     "INTERACTIVE_NORMAL": [
-      "#1F51FF",
+      "#000000",
       "#000000"
     ],
     "INTERACTIVE_HOVER": [
